@@ -2,3 +2,10 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     color: aquagit;
 }
+body {
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul li{
+ color: tomato;
+}
